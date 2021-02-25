@@ -1,0 +1,12 @@
+0
+rue-de-londres
+rue-d-amsterdam
+1
+rue-d-amsterdam rue-d-athenes
+rue-de-moscou
+2
+rue-de-moscou
+rue-de-londres rue-de-rome
+3
+rue-de-rome
+rue-d-athenes
